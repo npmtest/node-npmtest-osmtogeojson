@@ -1,0 +1,41 @@
+<svg height="606" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="606" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">5 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ osmtogeojson@3.0.0-beta.0 </tspan>
+<tspan x="10" y="90">  ├─┬ concat-stream@1.0.1 </tspan>
+<tspan x="10" y="106">  │ └─┬ bops@0.0.6 </tspan>
+<tspan x="10" y="122">  │   ├── base64-js@0.0.2 </tspan>
+<tspan x="10" y="138">  │   └── to-utf8@0.0.1 </tspan>
+<tspan x="10" y="154">  ├── geojson-numeric@0.2.0 </tspan>
+<tspan x="10" y="170">  ├─┬ geojson-rewind@0.2.0 </tspan>
+<tspan x="10" y="186">  │ ├── concat-stream@1.2.1 </tspan>
+<tspan x="10" y="202">  │ ├─┬ geojson-area@0.1.0 </tspan>
+<tspan x="10" y="218">  │ │ └── wgs84@0.0.0 </tspan>
+<tspan x="10" y="234">  │ └── minimist@0.0.5 </tspan>
+<tspan x="10" y="250">  ├─┬ htmlparser2@3.5.1 </tspan>
+<tspan x="10" y="266">  │ ├── domelementtype@1.3.0 </tspan>
+<tspan x="10" y="282">  │ ├── domhandler@2.2.1 </tspan>
+<tspan x="10" y="298">  │ ├── domutils@1.3.0 </tspan>
+<tspan x="10" y="314">  │ └─┬ readable-stream@1.1.14 </tspan>
+<tspan x="10" y="330">  │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="346">  │   ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="362">  │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="378">  │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="394">  ├─┬ JSONStream@0.8.0 </tspan>
+<tspan x="10" y="410">  │ ├── jsonparse@0.0.5 </tspan>
+<tspan x="10" y="426">  │ └── through@2.2.7 </tspan>
+<tspan x="10" y="442">  ├─┬ optimist@0.3.7 </tspan>
+<tspan x="10" y="458">  │ └── wordwrap@0.0.3 </tspan>
+<tspan x="10" y="474">  ├── osm-polygon-features@0.9.2 </tspan>
+<tspan x="10" y="490">  ├─┬ tiny-osmpbf@0.1.0 </tspan>
+<tspan x="10" y="506">  │ ├─┬ pbf@3.0.5 </tspan>
+<tspan x="10" y="522">  │ │ ├── ieee754@1.1.8 </tspan>
+<tspan x="10" y="538">  │ │ └─┬ resolve-protobuf-schema@2.0.0 </tspan>
+<tspan x="10" y="554">  │ │   └── protocol-buffers-schema@2.2.0 </tspan>
+<tspan x="10" y="570">  │ └── tiny-inflate@1.0.2 </tspan>
+<tspan x="10" y="586">  └── xmldom@0.1.27</tspan>
+</text>
+</svg>
